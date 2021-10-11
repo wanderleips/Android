@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aula1e2</string>
+    <string name="tvResultadoTela1">Hello World</string>
+    <string name="btEnviarTela1">Send</string>
+    <string name="btTela1SegundaTela">Screen 2</string>
+    <string name="edTela1Nome">Write your Name</string>
+    <string name="tvTela2">You are screen 2</string>
+    <string name="btTela2PrimeiraTela">Screen 1</string>
+    <string name="btTela2TerceiraTela">Screen 3</string>
+    <string name="tvTela3">You are on screen 3</string>
+    <string name="btTela3Segunda">Screen 2</string>
+    <string name="write_your_name">Write your name</string>
+</resources>

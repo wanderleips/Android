@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula1e2</string>
+    <string name="tvResultadoTela1">Ola Mundo</string>
+    <string name="btEnviarTela1">Enviar</string>
+    <string name="btTela1SegundaTela">Tela 2</string>
+    <string name="edTela1Nome">Digite seu nome</string>
+    <string name="tvTela2">Você esta na Tela 2</string>
+    <string name="btTela2TerceiraTela">Screen 3</string>
+    <string name="btTela3Segunda">Screen 2</string>
+    <string name="btTela2PrimeiraTela">Tela 1</string>
+    <string name="tvTela3">Você esta na tela 3</string>
+    <string name="write_your_name">Write your name</string>
+</resources>
